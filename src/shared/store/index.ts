@@ -1,0 +1,1 @@
+export { retrieveLastUpdatedFromLocalStorage, retrieveRectanglesFromLocalStorage, updateLocalStorageByRectangles } from './store'

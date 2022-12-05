@@ -1,0 +1,9 @@
+
+.rectangle {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    margin: auto;
+    background-color: aliceblue;
+    border: 1px gray solid;
+  }
+  
